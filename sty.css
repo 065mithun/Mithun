@@ -12,7 +12,7 @@
 	background-color:black;
 	background-size:50%;
 	background-position:right;
-	background:no-repeat;
+	background-repeat:no-repeat;
 }
 nav{
     display:flex;
